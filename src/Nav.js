@@ -45,8 +45,8 @@ export default function Nav(props) {
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <Li />
                 </ul>
-              </li>{" "}
-              45
+              </li>
+             
             </ul>
             <form class="d-flex">
               <button class="btn btn-outline-dark" type="submit">
